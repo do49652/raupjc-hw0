@@ -1,0 +1,6 @@
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\MyConsole\bin\Debug\MyConsole.dll
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\MyConsole\bin\Debug\MyConsole.pdb
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\MyConsole\obj\Debug\MyConsole.csproj.CoreCompileInputs.cache
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\MyConsole\obj\Debug\MyConsole.dll
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\MyConsole\obj\Debug\MyConsole.pdb
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\MyConsole\obj\Debug\MyConsole.csprojResolveAssemblyReference.cache

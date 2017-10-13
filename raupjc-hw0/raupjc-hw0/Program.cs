@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using MyConsole;
 
 namespace raupjc_hw0
 {
@@ -10,6 +7,8 @@ namespace raupjc_hw0
     {
         static void Main(string[] args)
         {
+            Class1.PrintHelloWorld();
+            Console.ReadLine();
         }
     }
 }

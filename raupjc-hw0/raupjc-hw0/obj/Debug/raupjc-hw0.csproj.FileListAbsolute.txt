@@ -1,0 +1,12 @@
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\bin\Debug\raupjc-hw0.exe.config
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\bin\Debug\raupjc-hw0.exe
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\bin\Debug\raupjc-hw0.pdb
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\obj\Debug\raupjc-hw0.csprojResolveAssemblyReference.cache
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\obj\Debug\raupjc-hw0.csproj.CoreCompileInputs.cache
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\obj\Debug\raupjc-hw0.exe
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\obj\Debug\raupjc-hw0.pdb
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\bin\Debug\MyConsole.dll
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\bin\Debug\MyConsole.pdb
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\bin\Debug\NodaTime.dll
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\bin\Debug\NodaTime.pdb
+C:\Users\dario\Documents\C#\raupjc-hw0\raupjc-hw0\raupjc-hw0\bin\Debug\NodaTime.xml
